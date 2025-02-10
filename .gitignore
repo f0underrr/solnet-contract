@@ -8,7 +8,8 @@ node_modules
 .env
 contract_seed.txt
 local_wallet.json
-local_keypair.txt
+local_seed.txt
 tests
 package-lock.json
 yarn.lock
+contract_keypair.txt

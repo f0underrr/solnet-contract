@@ -19,7 +19,8 @@ security_txt! {
     project_url: "https://solnet.digital",
     contacts: "mailto:security@solnet.digital",
     policy: "https://solnet.digital/privacy-policy",
-    preferred_languages: "en"
+    preferred_languages: "en",
+    source_code: "https://solnet.digital"
 }
 
 #[program]
