@@ -1,0 +1,14 @@
+.idea
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+.yarn
+.env
+contract_seed.txt
+local_wallet.json
+local_keypair.txt
+tests
+package-lock.json
+yarn.lock
