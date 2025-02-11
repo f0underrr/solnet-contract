@@ -13,3 +13,8 @@ tests
 package-lock.json
 yarn.lock
 contract_keypair.txt
+failed_seed_v2.txt
+failed_seed.txt
+recover.json
+recover_v2.json
+deploy_old

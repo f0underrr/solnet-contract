@@ -18,7 +18,7 @@ lottery = "BAHGeGi5ZNZxULbTXyB8aNmHVNE7muCsFBjYRWisszB4"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Devnet"
+cluster = "Mainnet"
 wallet = "./local_wallet.json"
 
 [scripts]
